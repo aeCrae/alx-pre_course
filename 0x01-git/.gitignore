@@ -1,0 +1,4 @@
+#ignore files that contain ~ which are usually created by
+#emacs
+*~
+~*
